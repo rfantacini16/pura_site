@@ -148,7 +148,7 @@ export function Navbar() {
             Agendar Demonstração
           </Link>
           <Link
-            href="https://app.pura.com.br/login"
+            href="https://pura-app.renatoviolin.online"
             className="inline-flex items-center gap-2 rounded-[var(--site-radius-sm)] px-5 py-2.5 text-sm font-semibold text-white transition-all duration-200 active:scale-[0.97] bg-[#0284FF] hover:bg-[#006ACE] hover:shadow-lg"
           >
             Acessar Plataforma
@@ -241,7 +241,7 @@ export function Navbar() {
               Agendar Demonstração
             </Link>
             <Link
-              href="https://app.pura.com.br/login"
+              href="https://pura-app.renatoviolin.online"
               onClick={() => setMobileMenuOpen(false)}
               className="flex items-center justify-center gap-2 w-full rounded-[var(--site-radius-sm)] px-5 py-3 text-sm font-semibold transition-all bg-[#0284FF] text-white hover:bg-[#006ACE]"
             >
